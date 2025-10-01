@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://akosiRIINIERU.github.io/tele-health",
+  "homepage": "https://akosiRIINIERU.github.io/Tele-Health",
 
   "scripts": {
      "dev": "vite",
