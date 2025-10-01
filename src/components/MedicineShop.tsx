@@ -7,7 +7,7 @@ import {
   Search, ShoppingCart, Plus, Minus, Star, 
   Pill, Leaf, Package, Truck, Heart 
 } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from 'C:/New folder (5)/telehealth/src/figma/ImageWithFallback.tsx';
 
 export function MedicineShop() {
   const [searchQuery, setSearchQuery] = useState('');
